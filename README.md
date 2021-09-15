@@ -3,10 +3,8 @@
 Hello Microverse
 
 > Practice Project
-
-
-
-Additional description about the project and its features.
+## Getting started
+To get a copy of this repo, follow the steps below.
 
 ## Built With
 
