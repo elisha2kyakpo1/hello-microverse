@@ -2,11 +2,13 @@
 
 Hello Microverse
 
+> Practice Project
+## Getting started
+To get a copy of this repo, follow the steps below.
+
 ## Built With
 
 - HTML & CSS
-
-
 
 ## Authors
 
