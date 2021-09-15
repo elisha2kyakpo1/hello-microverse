@@ -14,9 +14,9 @@ To get a copy of this repo, follow the steps below.
 
 ## Authors
 
-👤 **Grace Kabaghe**
+👤 **Elisha**
 
-- GitHub: [@githubhandle](https://github.com/gracekabaghe)
+- GitHub: [@elisha2kyakpo1](https://github.com/elisha2kyakpo1)
 
 ## 🤝 Contributing
 
